@@ -1,0 +1,17 @@
+{
+    "packages": [],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": {
+        "php": "7.3.8",
+        "ext-gd": "*",
+        "ext-mbstring": "*",
+        "ext-sqlite3": "*",
+        "ext-imagick": "*"
+    },
+    "platform-dev": []
+}
