@@ -1,0 +1,9 @@
+{
+  "name": "MikuTools-index",
+  "description": "MikuTools-index",
+  "website": "https://github.com/0080004/MikuTools-index",
+  "repository": "https://github.com/0080004/MikuTools-index",
+  "success_url": "index.html",
+  "env":{
+  }
+}
