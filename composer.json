@@ -1,9 +1,0 @@
-{
-  "require": {
-    "ext-gd": "*",
-    "ext-mbstring": "*",
-    "ext-sqlite3": "*",
-    "ext-imagick": "*"
-  }
-}
-© 2019 GitHub, Inc.
